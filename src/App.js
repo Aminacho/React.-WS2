@@ -10,7 +10,7 @@ function App() {
       </h1>
       <div className="body">
         <PlayersListe>
-          <h2> Classements </h2>
+          <h2> Classements :</h2>
         </PlayersListe>
       </div>
     </div>
