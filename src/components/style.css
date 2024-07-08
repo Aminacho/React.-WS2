@@ -1,0 +1,34 @@
+body {
+  background-color: #f1eeee;
+}
+.body * {
+  font-family: "Times New Roman", Times, serif;
+  background: linear-gradient(#e9e1e1, #c9ccec);
+}
+h1 {
+  margin-bottom: 30px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  padding: 20px;
+}
+#playersListe {
+  text-align: center;
+  height: fit-content;
+  width: 84%;
+  margin: auto;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  border-radius: 10px;
+}
+#player-item {
+  margin: 10px;
+  border-radius: 15px;
+  width: 400px;
+  padding: 10px;
+  box-shadow: 10px 3px #cfcece;
+}
+img {
+  width: 300px;
+  height: 300px;
+  border-radius: 100%;
+}
